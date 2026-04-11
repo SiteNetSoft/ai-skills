@@ -6,6 +6,7 @@ A collection of AI skill files (`CLAUDE.md` and similar) for improving AI-assist
 
 - **`writing/`** — Skills for technical documentation, commit messages, PR descriptions, and other written content
 - **`dev-practices/`** — Skills for code quality, testing, CI/CD, security, and engineering best practices
+- **`meta/`** — Skills about authoring skills themselves (see [`meta/skill-authoring/`](meta/skill-authoring/index.md))
 
 ## Skill Format
 
