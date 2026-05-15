@@ -16,6 +16,7 @@ Thumbs.db
 credentials.*
 secrets.*
 
-# Claude Code memory (may contain personal data)
-.claude/
+# Claude Code: personal/secret only — shared config (settings.json, agents/, etc.) is committable
+.claude/settings.local.json
+.claude/.credentials.json
 MEMORY.md
